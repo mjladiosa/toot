@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toot/static/css/main.84a09810.css",
+    "main.js": "/toot/static/js/main.7a3101f0.js",
+    "static/js/488.954cd771.chunk.js": "/toot/static/js/488.954cd771.chunk.js",
+    "index.html": "/toot/index.html",
+    "main.84a09810.css.map": "/toot/static/css/main.84a09810.css.map",
+    "main.7a3101f0.js.map": "/toot/static/js/main.7a3101f0.js.map",
+    "488.954cd771.chunk.js.map": "/toot/static/js/488.954cd771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a09810.css",
+    "static/js/main.7a3101f0.js"
+  ]
+}
